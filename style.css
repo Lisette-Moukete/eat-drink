@@ -1,0 +1,229 @@
+nav a{ 
+    margin-right: 20px;
+    color: black ;
+text-decoration: none;
+}
+
+nav :hover{
+    color: red
+}
+
+body{
+    margin:50px;
+}
+ 
+    
+
+header{
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+ 
+
+   #left{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    
+    
+   } 
+   .bloc1{
+    width: 50%;
+    height: 90%;
+   }
+   .bloc2{
+    width: 45%;
+    height: 90%;
+   }
+
+#livreuse{
+    padding-left: 45px;
+    height:25rem ;
+    width: 25rem;
+}
+#btn{
+    padding: 2px;
+    margin: 2px;
+    background-color: red;
+    color: white;
+    border-radius: 18px;
+    height: 6vh;
+}
+
+    
+
+
+#section2 {
+    display: flex;
+    justify-content: center;
+    border: 0;
+    border-color: pink;
+    border-radius: 10px;
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    margin: 1%;
+    background-color:pink;
+    border-radius: 10px;
+    align-items: center;
+    width: 23%;
+}
+.image{
+    padding: 20px;
+    width: 25%;
+}
+
+
+
+#section3{
+    text-align: center;
+    font-size:20px ;
+    
+    
+}
+#titre{
+    color: red; 
+}
+.bouf{
+    padding-left: 8px;
+    margin-left: 8px;
+}
+#section4{
+    display: flex;
+    padding-top: 60px;
+}
+.image2{
+    margin-left: 10px;
+}
+.sep_image{
+    padding: 10px;
+    margin: 10px;
+}
+#pop{
+    text-align: center;
+}
+#logo{
+    display: flex;
+    justify-content:center;
+    border: 1px;
+    background-color: red;
+    border-radius: 40px;
+    flex-wrap: wrap;
+}
+.logo{  
+    display: flex; 
+    margin: 10px;
+    padding: 10px;
+}
+.repas{
+    padding: 6px;
+    margin: 6px;
+}
+#button{ 
+    align-items: center;
+    margin-top: 2vh;
+    width: 4vw;
+    border-radius: 10px;
+    height:6vh;
+    padding-right: 4px;
+    padding-top: 2px;
+}
+
+.variete{
+text-align: center;
+padding-top: 2vh;
+}
+.repas{
+    color: white;    
+}
+
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pizza{
+    display:flex
+    
+}
+#nouriture{
+    margin-top: 40px;
+}
+       
+
+.nou{
+    display: flex;
+    justify-content: space-around;
+   
+
+} 
+#hot{
+    text-align: center;
+    font-size:20px;
+}
+#drinks{
+    text-align: center; 
+    font-size: 40px;
+}
+
+.drink{
+    margin-left: 10%;
+    
+    
+}
+footer{
+    background-color: rgba(255, 192, 203, 0.578);
+    padding: 54px;
+    
+}
+#foot{
+    display: flex;
+    justify-content: space-between;
+    border: 1px ;  
+} 
+
+.prix{
+    color: red; 
+
+} 
+.jus{
+    text-align: center;
+}
+.button{ 
+    color: white;
+ background-color: red;
+ border-radius: 8px;
+ margin-left:20PX ;
+}
+    hr{
+        width: 70%;
+    }
+    #suivre{
+        text-align: center;
+    }
+    .piz{
+        border: 1px solid red;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        padding:60px   
+    }
+    .drink{
+        display: flex;
+        padding: 10px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+    }
+    /*#icon3{
+        display: none;
+    }
+    /*
+    /*div{
+        border: 1px solid black;
+      } /*
